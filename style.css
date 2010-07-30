@@ -1,0 +1,85 @@
+body#mainpage, body#subback {
+ height: 100%;
+ width: 100%;
+ background: #c5ad99;
+ background-image: url(ba.gif);
+ color: #000000;
+ font-family: Nyala, serif
+}
+
+body.threadpage {
+ background: #efefef;
+}
+
+a {
+ color: #0000ff;
+}
+
+a:visited {
+ color: #660099;
+}
+
+a:hover {
+ color: #ff0000;
+}
+
+#titlebox, #threadbox, #threadform, #threadlist, #subback p {
+ background: #ccffcc;
+ border: 0.5em ridge #ccffcc;
+ padding: 0.5em;
+ width: 90%;
+ margin-top: 1em;
+ margin-bottom: 1em;
+}
+
+#titlebox {
+ text-align: center;
+}
+
+#title {
+ font-size: 3em;
+ font-family: monospace;
+}
+
+#threadlist {
+ list-style-position: inside;
+}
+
+.thread {
+ background: #efefef;
+ border: 0.5em ridge #efefef;
+ padding: 0.5em;
+ width: 90%;
+ margin-top: 1em;
+ margin-bottom: 1em;
+}
+
+h1 {
+ color: #ff0000;
+}
+
+.post {
+ margin-top: 1em;
+ margin-bottom: 1em;
+}
+
+.postnum {
+ font-weight: bold;
+ display: inline;
+}
+
+.postdate {
+ font-size: 60%;
+ display: inline;
+}
+
+.postbody {
+ padding-left: 1em;
+ font-family: monospace;
+ white-space: pre;
+}
+
+blockquote {
+ margin: inherit;
+ font-style: italic;
+}
