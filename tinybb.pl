@@ -4,7 +4,6 @@ use Fcntl qw(:flock);
 use CGI;
 use CGI::Carp qw(fatalsToBrowser);
 use Encode qw(decode);
-use encoding 'utf8';
 use open ':utf8';
 
 use constant BOARD_TITLE => 'anonymous bbs';
