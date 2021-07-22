@@ -4,7 +4,7 @@
 # This file is part of tinybb.
 #
 # tinybb is non-violent software: you can use, redistribute,
-# and/or modify it under the terms of the CNPLv6+ as found
+# and/or modify it under the terms of the CNPLv6 as found
 # in the LICENSE file in the source code root directory or
 # at <https://git.pixie.town/thufie/CNPL>.
 #
